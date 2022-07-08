@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #fdf58ef6;
+}
+
+#project {
+  background-color: #fdf58ef6;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+nav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+}
